@@ -28,3 +28,8 @@ Please suggest, and vote for topics in the comment section on the Meetup page:
 <LINK>
 
 
+## Contacts
+Robin Morero - robin.morero@pagero.com
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+

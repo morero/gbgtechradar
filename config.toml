@@ -8,37 +8,36 @@ copyright = "Copyright (c) 2016, djuelg; all rights reserved."
 [author]
     name = "robinm"
     
-languageCode = "en-US"
+languageCode = "sv-SE"
 MetaDataFormat = "toml"
 PaginatePath = "page"
 googleAnalytics = ""
 
 [params]
     # Meta Information
-    name = "djuelg"
-    description = "This is the sites description, which will be found in the meta tags."
+    name = "Gothenburg Tech Radar"
+    description = "Gothenburg Tech Radar, a monthly meetup focused on emerging technology."
 
     # Homepage Start-Screen, variables can be left empty, links dont start with /
-    title_l1 = "Shapez Theme"
+    title_l1 = "Gothenburg Tech Radar"
     title_l2 = ""
-    subtitle_l1 = "Shapez is a theme created for hugo"
-    subtitle_l2 = "with SVG pictures, CSS3 magic,"
-    subtitle_l3 = "struggle and love."
+    subtitle_l1 = "Meetup in Gothenburg, Sweden"
+#    subtitle_l2 = "---"
+#    subtitle_l3 = "Emerging technologies."
     # For these Links you need the full URL, because external links are supported
-    title_link = "http://djuelg.github.io/about/"
-    subtitle_link = ""
+#    title_link = "http://djuelg.github.io/about/"
+#    subtitle_link = ""
 
-    message = "I'm an optional important message!"
     # Possible values are: auto | optimizeSpeed | optimizeQuality
     start_screen_image_quality = "auto"
 
     # Enter links for the buttons (button one has the house sign), shouldn't be left empty
     button_1 = ""
-    button_2 = "playground/"
+    button_2 = "past/"
     button_3 = "about/"
 
     logo = "images/logo.png"
     logo_start_screen_rotation = "19"
     # This is a workaround to the original paginate param, to apply x articles per page AND sort by date
     paginate = 2
-    keywords = "hugo, blog, Shapez, SVG, design"
+    keywords = "gothenburg tech meetup, emerging technology, technology radar"

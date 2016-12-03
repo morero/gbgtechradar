@@ -6,8 +6,20 @@
     <description>Recent content on Gothenburg Tech Radar</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2016, djuelg; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Nov 2016 21:25:55 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 29 Nov 2016 16:12:18 +0100</lastBuildDate>
     <atom:link href="http://0.0.0.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Container orchestration &amp; Unikernels</title>
+      <link>http://0.0.0.0/post/test/</link>
+      <pubDate>Tue, 29 Nov 2016 16:12:18 +0100</pubDate>
+      
+      <guid>http://0.0.0.0/post/test/</guid>
+      <description>&lt;p&gt;The first meeting will revolve around container technology.&lt;/p&gt;
+
+&lt;p&gt;This is a new post&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>about</title>
@@ -15,7 +27,24 @@
       <pubDate>Wed, 23 Nov 2016 21:25:55 +0100</pubDate>
       
       <guid>http://0.0.0.0/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;Gothenburg Tech Radar is a monthly meetup group based in Gothenburg, Sweden.&lt;/p&gt;
+
+&lt;p&gt;The purpose of the group is to inspire an open discussion about software, technology and methodologies - inspired by the Thoughtworks technology radar:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.thoughtworks.com/radar&#34;&gt;https://www.thoughtworks.com/radar&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In short; software to adopt, software to keep, and software to avoid.&lt;/p&gt;
+
+&lt;p&gt;Each meeting will have a generic topic.&lt;/p&gt;
+
+&lt;p&gt;To avoid a too wide span of interests; we will keep this group unix- and open source- oriented.&lt;/p&gt;
+
+&lt;p&gt;Each meetup should result in a tech radar representation of the technology discussed.&lt;/p&gt;
+
+&lt;p&gt;Please suggest, and vote for topics in the comment section on the Meetup page:&lt;/p&gt;
+
+&lt;p&gt;&lt;LINK&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
