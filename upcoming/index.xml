@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gothenburg Tech Radar</title>
-    <link>http://0.0.0.0/index.xml</link>
-    <description>Recent content on Gothenburg Tech Radar</description>
+    <title>Upcoming-rsses on Gothenburg Tech Radar</title>
+    <link>http://0.0.0.0/upcoming/index.xml</link>
+    <description>Recent content in Upcoming-rsses on Gothenburg Tech Radar</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright (c) 2016, djuelg; all rights reserved.</copyright>
     <lastBuildDate>Wed, 08 Feb 2017 16:00:00 +0100</lastBuildDate>
-    <atom:link href="http://0.0.0.0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://0.0.0.0/upcoming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Golang Edition</title>
@@ -97,58 +97,6 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/rumpkernel/rumprun&#34;&gt;https://github.com/rumpkernel/rumprun&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://articles.microservices.com/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e#.yryc5oovs&#34;&gt;https://articles.microservices.com/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e#.yryc5oovs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>go</title>
-      <link>http://0.0.0.0/technology/go/</link>
-      <pubDate>Sat, 03 Dec 2016 13:13:58 +0100</pubDate>
-      
-      <guid>http://0.0.0.0/technology/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>notyet</title>
-      <link>http://0.0.0.0/past/notyet/</link>
-      <pubDate>Fri, 02 Dec 2016 22:49:46 +0100</pubDate>
-      
-      <guid>http://0.0.0.0/past/notyet/</guid>
-      <description>&lt;p&gt;Nothing here yet.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://0.0.0.0/about/</link>
-      <pubDate>Wed, 23 Nov 2016 21:25:55 +0100</pubDate>
-      
-      <guid>http://0.0.0.0/about/</guid>
-      <description>
-
-&lt;p&gt;Gothenburg Tech Radar is a monthly meetup group based in Gothenburg, Sweden.&lt;/p&gt;
-
-&lt;p&gt;The purpose of the group is to inspire an open discussion about software, technology and methodologies - inspired by the Thoughtworks technology radar:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.thoughtworks.com/radar&#34;&gt;https://www.thoughtworks.com/radar&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In short; software to adopt, software to keep, and software to avoid.&lt;/p&gt;
-
-&lt;p&gt;Each meeting will have a generic topic.&lt;/p&gt;
-
-&lt;p&gt;To avoid a too wide span of interests; we will keep this group unix- and open source- oriented.&lt;/p&gt;
-
-&lt;p&gt;Each meetup should result in a tech radar representation of the technology discussed.&lt;/p&gt;
-
-&lt;p&gt;Please suggest, and vote for topics in the comment section on the Meetup page:&lt;/p&gt;
-
-&lt;p&gt;&lt;LINK&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;contacts&#34;&gt;Contacts&lt;/h2&gt;
-
-&lt;p&gt;Robin Morero - robin.morero@pagero.com
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&lt;/p&gt;
 </description>
     </item>
     
